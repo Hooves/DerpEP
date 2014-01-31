@@ -1,0 +1,8 @@
+## Interface: 50400
+## Title : Derp EP
+## Notes: /derp
+## Author: Git/Layonhooves
+## SavedVariables: savedDerps, savedDerpersData, savedDerpersDataBackup, savedDerpSettings
+
+embeds.xml
+Core.lua
